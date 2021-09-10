@@ -6,6 +6,5 @@ public class Main {
 	
     	
     	System.out.print("Hello, World!");
-    	System.out.print("Wassuuup!");
     }
 }
